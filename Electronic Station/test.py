@@ -3,14 +3,17 @@ class state:
         pass
     def cool(self,con):
         pass
+
 class water(state):
     def heat(self,con):
         con.changeState(vapour())
     def cool(self,con):
         con.changeState(ice())
+
 class ice(state):
     def heat(self,con):
         con.changeState(water())
+
 class vapour(state):
     def cool(self,con):
         con.changeState(water())

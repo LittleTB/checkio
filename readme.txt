@@ -1,5 +1,2 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Creating a new branch is quick and simple.
-The --no-ff way to merge.
+Chekio is a excellent website for Beginners to learn Programming.There are so many questions you can practice.
+I like Python so my answer is based on Python.You can use programming language you like.

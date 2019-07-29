@@ -1,5 +1,5 @@
 def checkio(words: str) -> bool:
-	"""判断字符串中是否存在三个连续单词"""
+	"""判断字符串中是否存在三个连续英文单词"""
 	words = words.split(' ')
 	x = len(words)
 	count = 0

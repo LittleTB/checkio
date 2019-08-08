@@ -17,7 +17,6 @@ def total_cost(infos:tuple) -> int:
 
 	return cost
 
-
 print(total_cost(("2014-01-01 01:12:13 181",
             "2014-01-02 20:11:10 600",
             "2014-01-03 01:12:13 6009",
